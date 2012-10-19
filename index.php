@@ -67,7 +67,9 @@ include("header.php");
 			<h3>
 				Digital Goods Express 
 			</h3>
-			<p>
+			<p>Digital goods payments combines JavaScript with the Express Checkout API to streamline the checkout process for buyers of digital goods.
+
+				<br><br>Digital goods are items such as e-books, music files, and digital images distributed in electronic format. Typically the prices of items are a few dollars. The buyer can conveniently purchase digital goods during checkout with a minimum of clicks without leaving your website or interrupting their online activities.
 			</p>
 			
 		</div>
